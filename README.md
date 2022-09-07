@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Sawa</h1>
+<h1 align="center">Hi, I'm Brian Sawa</h1>
 <h3 align="center">A passionate Information Security professional interested in Solutions architecture and DevOps</h3>
 
 - 🌱 I’m currently learning **DevOps technologies**
