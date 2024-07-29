@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Brian Sawa</h1>
-<h3 align="center">A passionate Information Security professional interested in Solutions architecture and DevOps</h3>
-
-- 🌱 I’m currently learning **DevOps technologies**
+<h3 align="center">A passionate Information Security professional interested in Solutions architecture and Software Engineering</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/noahpop77](https://github.com/noahpop77)
 
